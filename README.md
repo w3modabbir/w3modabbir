@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Modabbir Hossen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="coding img" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="coding img" width="400" height="250" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 - 🔭 I’m currently working on **FrontEnd Development**
 
-- 🌱 I’m currently learning **MERN Stack.📗**
+- 🌱 I’m currently learning **MERN Stack 📗**
 
 - 📫 How to reach me **modabbirhossen.web@gmail.com**
 
