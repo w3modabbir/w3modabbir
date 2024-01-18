@@ -46,9 +46,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3modabbir&layout=compact&theme=" alt=w3modabbir />
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=w3modabbir&theme=" alt="w3modabbir" /></p>
+<img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3modabbir&layout=compact&theme=" alt=w3modabbir />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
